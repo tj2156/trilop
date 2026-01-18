@@ -1,1 +1,3 @@
 # trilop
+
+blockchain is future
